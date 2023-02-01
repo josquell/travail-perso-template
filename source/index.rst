@@ -4,13 +4,21 @@
     contain the root `toctree` directive.
     
 
-Titre de votre travail personnel (changer dans `source/index.rst`)
-=================================
+Les portes logiques
+###################
+
+.. error::
+    Il y a une error
+    
+les transistors
+===============
+
+.. error::
+    Il y a une error
 
 ..  toctree::
     :maxdepth: 2
     :caption: Table des matières
-
     introduction.rst
     conclusion.rst
     references.rst
