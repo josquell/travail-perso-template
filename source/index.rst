@@ -4,22 +4,12 @@
     contain the root `toctree` directive.
     
 
-Les portes logiques
-###################
-
-.. error::
-    Il y a une error
-    
-les transistors
-===============
-
-.. error::
-    Il y a une error
-
 ..  toctree::
     :maxdepth: 2
     :caption: Table des matières
+    
     introduction.rst
+    transistors.rst
     conclusion.rst
     references.rst
 
