@@ -30,7 +30,3 @@ La troisième partie est l’horloge.
 Cette dernière s’occupe de la synchronisation des processeurs de type synchrone.
 
 Enfin, les bus informatiques sont la quatrième partie, on en dénombre trois : le bus de contrôle, le bus de données et le bus d’adresse.
-
-
-.. error::
-    Il y a une error !
