@@ -9,7 +9,7 @@
     :caption: Table des matières
     
     introduction.rst
-    transistors.rst
+    processeur.rst
     conclusion.rst
     references.rst
 
