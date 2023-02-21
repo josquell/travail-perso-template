@@ -10,6 +10,7 @@
     
     introduction.rst
     processeur.rst
+    fonctionnement_processeur.rst
     conclusion.rst
     references.rst
 
