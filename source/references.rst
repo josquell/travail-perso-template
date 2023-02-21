@@ -25,3 +25,12 @@
 
 ..  bibliography:: online.bib
     :all:
+
+..  only:: html
+    
+    ..  rubric:: videos
+
+..  bibliography:: videos.bib
+    :all:
+
+    
