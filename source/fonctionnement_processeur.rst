@@ -16,7 +16,7 @@ ______________________________
 Un transistor fonctionne avec le binaire. 
 Ainsi, une forte tension électrique est assimilée à la valeur 1, alors qu’une faible tension électrique à la valeur 0.
 
-images/transistor.png
+.. image:: images/transistor.png
 
 Voici un schéma qui présente les deux types de transistors qu’il est possible de construire. 
 Le premier transistor est un transistor NPN.
@@ -60,7 +60,7 @@ L’objectif d’une porte logique est de renvoyer un signal positif (1) ou nég
 Fonctionnement d'une porte logique
 __________________________________
 
-images/schema_NOT.jpg
+.. image:: images/schema_NOT.jpg
 
 La porte logique la plus simple est certainement la porte NOT, aussi appelé NON.
 La figure 2 Schématise une porte logique NOT. 
@@ -75,12 +75,12 @@ C’est donc cette fois-ci la valeur 1 qui sortira de la porte logique.
 
 Il est dès lors possible de dresser un tableau récapitulatif qui présente les valeurs de sortie en fonction des valeurs d’entrée d’une porte logique NOT :
 
-images/tableau_NOT.png
+.. image:: images/tableau_NOT.png
 
 Ensuite, la porte logique AND a pour mission de retourner la valeur 1 uniquement lorsque les deux valeurs d’entrée valent 1. 
 Voici un schéma simplifié de la porte logique AND.
 
-images/schema_AND.png
+.. image:: images/schema_AND.png
 
 Sur la figure 3, T1, T2 et T3 représentent des transistors PNP alors que T4, T5 et T6 représentent des transistors NPN. 
 Le chiffre 1 présent tout en haut à droite symbolise l’arrivé du courant issu de l’alimentation. 
@@ -94,7 +94,7 @@ Enfin, dans le cas où la valeur de l’entrée A et B est 0, T1 et T2 sont ouve
 La valeur de sortie est donc 0. Dans les trois derniers cas, T6 laissent passer le signal qui est nul.
 Il est dès lors possible de dresser un tableau récapitulatif d’une porte logique AND qui présente les valeurs de sortie en fonction des deux valeurs d’entrée :
 
-images/tableau_NOT
+.. image:: images/tableau_AND.png
 
 Pour la porte logique NAND, les valeurs de sortie sont simplement l’inverse des valeurs de sortie de la porte logique AND.
 Concernant la porte logique OR, la valeur de sorti doit être 0 uniquement lorsque les deux valeurs d’entrée valent 0. 
