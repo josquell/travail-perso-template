@@ -28,7 +28,7 @@
 
 ..  only:: html
     
-    ..  rubric:: videos
+    ..  rubric:: Vidéos
 
 ..  bibliography:: videos.bib
     :all:
