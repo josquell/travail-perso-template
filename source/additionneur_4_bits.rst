@@ -20,3 +20,9 @@ Schéma interactif d'un additionneur à 4 bits, créer sur :cite:p:`logic.modulo
 
 Explications du schéma
 ======================
+
+Le schéma ci-dessus présente le fonctionnement d'un additionneur à 4 bits.
+Ce dernier est constitué d'une première entré A à 4 bits (A4-A3-A2-A1) et d'une deuxième entrée B à 4 bits (B4-B3-B2-B1) qui représentent le nombre A, respectivement le nombre B que nous voulons additionner. 
+Il y a ensuite un circuit complexe composé de 3 types de portes logiques: AND, XOR et OR, qui permet d'effectuer le calcul.
+Puis, le résultat du calcul est affiché à l'aide de 4 bits (R4-R3-R2-R1).
+Enfin, 3 afficheurs ont été ajoutés sur la droite du schéma dans le but de facilité l'interprêtation des entrées et du résultat, en affichant les nombres en base 10.
