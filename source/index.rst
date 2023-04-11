@@ -11,7 +11,6 @@
     introduction.rst
     processeur.rst
     fonctionnement_processeur.rst
-    additionneur_4_bits.rst
     conclusion.rst
     references.rst
 
