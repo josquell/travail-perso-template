@@ -4,20 +4,19 @@ Presentation de l'additionneur à 4 bits
 Schéma interactif
 =================
 
-Explications du schéma
-======================
-
 ..  raw:: html
 
-    <iframe style="width: 100%; height: 560px; border: 0" src="https://logic.modulo-info.ch/?mode=design&data=N4IgbiBcCsA0IHMCGAXApgZygbVCgngA5pQgByA8gCojyED2Wk2AzAAxwBMAnGwLrwAlgDsobePQCuKKAEYAvrDxESkEAEEyAEVogGTbNFnjOAdn5DRzTrBYCQUmZAAs8+wHdBAJ0w5ss2E4+PnkgA"></iframe>
+    <iframe style="width: 200%; height: 795px; border: 0" src="https://logic.modulo-info.ch/?mode=design&data=N4IgbiBcCsA0IEsB2UDaoAOB7AzmgnAAyGwBMhAuvFgE4ICmSALlCHvAgCZQngCGAGygBGAL6xMuNAA5oJAGzQqibpGHwwgkeMl5IqeQGYS5ZbQbNW7FVFKGNWtTpDY9qaNJIB2Sh1WkAFgchJwkXKX1DTzJfEHNGFkg2ED8oQy9nVzRDY1gfZS406WDtMKz9YVzTajoEqxSbSEVMiNRo-NSm+VEzAFdE9HC3I28vJRqLROTO4W6y1qjR8bjayyTrQshjFrdKpbNVqY3VeUJnJgBPDHpWTgQcDAE+C4by1GE92E8C1RAvaQAtNJhCBzlcbkk7g8ni94G8PrlhN9On9CACvIZQWFLtdbvdHs9Xq0ESZkY0QNJ5ED8FjdDIiHkxgdJvVOtAevAAOZ8Jj0NygHEQkAADQA8gAlIluaQMxTLeJraaIFD6UiwQx9RIBMG4pIAQQAcgARKVoLwBOABU7MurrBrINAfWDCUiakSGHVCsWSuGtEawOU2xUbFXvLzO6RutT4T2sb2m-TycjqgKxBVHe2h5OkYRR0ikWP640J1ABfCW60TW1Kh36YrCAJR4Ts7Hg1gSksBWSwaCVlYsu0cLPh0iR6j9Wwx1u6kUd31uRYB6Dyw6s5XZdSGV3jxI5Quzn1DbI+FNp1eD9eRIKGeUTrZzAVtosm+doAIWshk9Nr2uoQz4WBUyjAIxGnIVDRfI9VWIT8zwHGtQytQCvGA6R9znKDUDsOBezg6sQzfAC5CjaBQMfGcIJLQIKzw4NMzQZce3kEiMjAuMMPhXJAyrOihwYoIPBIqdyK9DjiWTQwgJ4jM+MTcN5DHOI73kGNlBhLA70GQVWAwPgcGsN5pGif9aJky95B3KBWJEnS9IM1oiBIEDTJ-FUAKUxJhDONikl0-SSyTEgTKDMza1IOAPNsB8QG03y7ICryYhXeCCMgAI1UitKPR8lx4tfRMqmMELXKgd9LLSlsbLi-z8r-E9gukkqYAyjTEmgbKqtymrMMXOwXIvWt5HUTKk33Pz7IXU4kuKgaVSMcr5G1HLxpLIySAbfqEKsoJMrGMa8swob1uIxrZqsizdusmKny6ibsim2ZNtS6QWrvaQOuumcVtqj51o6ft8PoyBpB21qoFkDkQCeAAjegBH5TCSWdIr4F5AAPKYAGpaURz4+uUdGpgAXhx+FFHVRQCfoDH2MlHY32bCnlkJ2nSb9cnDEp1HqameN6YqMYl1iFmkj5+Y3HSuBFGFnnWf5gxBelqmadFjt5fwG8heV3m1fFtBSEF3DtfbOm9f0aBwqYmWVZAXW6VVD9R2tqZKPlstSWd1hXbNrCGStT3nzZtxoFTQC+xFkBvft1AvD98PZcD+WXRgskI4NLAAFtoZoegAAI9SDx1yHW1OE5AdOs5z3OACFC4qYRy1g42knFABLnBegEJgeTrtpGOqGKy71EF5Y8OAB4jvVSF7nJx4DyPMXVkx571AJe+BBRmbL6uR59kPvHn6vp-l0c4H+iPq8Xn3Q-P7e1-Vy2vCZbmbfFXfo-kcmn631-j+vxnv7NxAOKK+0dZhn2foPV+99lAAHcEA5zcO8PIjZYCoBIPgKgMd1RYMStud4611CgDAAgPgaAY6MXSrwWBIAKAUA5Ngl0YQSFkP0DHTWqZqG0PobggCsxcH2GEOGYhpDyHmilozZIWDFoKEkTQuhDD8xkHGFhIIXhmJoLsIBVB7x7DFBEaw1ABhQ5yC4dI0OVD4DyJ4ZoiySIsGkDsUEAx5CuyWhgiAaxDDGYGwcQBQwRDwCiLYW4gMcjaFoJMmEiKXisGcx7PgqIXxEnyVzJE+wKNSz2BzFgx2vgsmARIC4kJmscwxO4Qwj8-5cnqFHMw4JRj3w4WTFImx7hwxlj8T2OAxSjFRNOGYyJfsWmxLQe1dU+Dxm9nqYYrCHCPGjPcABSs7h1AhxmeQ7C0SrERPeKHIa5SFG5OKHIDZbDi4JN4HgI5aCkwpnMeqFRi1kJnKMQ3Ew4SbkGDVFaaRFkQbSKlihW5RExzoLyGCrRsdXkKxICdWFzpiBYPLHALy+SUV5EoG09IXwilBNmZLHs+TCW-WRYLUlaD8CCyIF88mwIYVCJwvkxlzpqgEJgsnXBxBCFYoYYrLBgsOgxw6fgp+eRAksPIWi9aKzpXOnyG096AYNRoKVV4NUvTUBUtRUK7VzoaWKqlmC7sGIYUYqROi-uXkvlBEpAy4gUtG4gBQFywg49TnOoqbwr4wj8XkI3gGJ1LrVWJR8BFYNBDkxhvgBGry2YTyeq+TkL4+i-VsJDo6lRGbxUqK8prLwzYuWlIZImtp0AAIyhhaQRuKkVHVrPuFLlpz1W5rdUFRKpbKk9gUUAA"></iframe>
 
-
-Selon :cite:p:`transistors:test-instances-2`, les transistors sont ...
+Schéma interactif d'un additionneur à 4 bits, créer sur :cite:p:`logic.modulo-info.ch`
 
 ..  only:: latex
 
-    ..  figure:: images/circuit.png
+    ..  figure:: images/schema_additionneur.png
         :align: center
         :width: 80%
 
-        Cicruit débile de test
+        Schéma d'un additionneur à 4 bits
+
+Explications du schéma
+======================
