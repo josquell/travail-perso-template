@@ -57,7 +57,7 @@ Il existe sept portes logiques de base : AND, OR, XOR, NOT, NAND, NOR et XNOR.
 La majorité des portes logiques disposent de deux entrées et d’une sortie. 
 L’objectif d’une porte logique est de renvoyer un signal positif (1) ou négatif (0) à la sortie en fonction des deux valeurs d’entrée.
 
-Fonctionnement d'une porte logique
+Fonctionnement des portes logiques
 __________________________________
 
 .. image:: images/schema_NOT.jpg

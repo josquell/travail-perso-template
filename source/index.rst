@@ -5,7 +5,7 @@
     
 
 ..  toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Table des matières
     
     introduction.rst
@@ -17,7 +17,7 @@
 
 ..
     ..  toctree::
-        :maxdepth: 2
+        :maxdepth: 3
         :caption: Table des matières
 
         plan.rst
@@ -25,7 +25,7 @@
 
 ..
     ..  toctree::
-        :maxdepth: 2
+        :maxdepth: 3
         :caption: Tutoriel Sphinx
 
         tutoriel-sphinx/index.rst
