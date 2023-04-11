@@ -21,11 +21,13 @@ Schéma interactif d'un additionneur à 4 bits, créer sur :cite:p:`logic.modulo
 Explications du schéma
 ======================
 
-Le schéma ci-dessus présente le fonctionnement d'un additionneur à 4 bits.
-Ce dernier est constitué d'une première entré A à 4 bits (A4-A3-A2-A1) et d'une deuxième entrée B à 4 bits (B4-B3-B2-B1) qui représentent le nombre A, respectivement le nombre B que nous voulons additionner. 
+Afin d'être en mesure de voir en même temps le schéma et les explications, il est conseillé d'afficher ces derniers dans deux fenêtres différentes, l'une à côté de l'autre.
+
+Le schéma présente le fonctionnement d'un additionneur à 4 bits.
+Ce dernier est constitué d'une première entré A à 4 bits (A4-A3-A2-A1) et d'une deuxième entrée B à 4 bits (B4-B3-B2-B1) qui représentent le nombre A, respectivement le nombre B, que nous souhaitons additionner. 
 Il y a ensuite un circuit complexe composé de 3 types de portes logiques: AND, XOR et OR, qui permet d'effectuer le calcul.
 Puis, le résultat du calcul est affiché à l'aide de 4 bits (R4-R3-R2-R1). 
-Enfin, 3 afficheurs ont été ajoutés sur la droite du schéma dans le but de facilité l'interprêtation des entrées et du résultat, en affichant les nombres en base 10.
+Enfin, 3 afficheurs ont été ajoutés sur la droite du schéma dans le but de facilité l'interprétation des entrées et du résultat, en affichant les nombres en base 10.
 
 Un additionneur à 4 bits peut additionner des nombres dont le résultat ne dépasse pas 1111 en binaire, ce qui correspond à 15 en base 10.
 Dans notre cas, il s'agit d'additionner les nombres 3 et 7, soit 0011 et 0111 en binaire.
