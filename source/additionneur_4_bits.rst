@@ -24,5 +24,32 @@ Explications du schéma
 Le schéma ci-dessus présente le fonctionnement d'un additionneur à 4 bits.
 Ce dernier est constitué d'une première entré A à 4 bits (A4-A3-A2-A1) et d'une deuxième entrée B à 4 bits (B4-B3-B2-B1) qui représentent le nombre A, respectivement le nombre B que nous voulons additionner. 
 Il y a ensuite un circuit complexe composé de 3 types de portes logiques: AND, XOR et OR, qui permet d'effectuer le calcul.
-Puis, le résultat du calcul est affiché à l'aide de 4 bits (R4-R3-R2-R1).
+Puis, le résultat du calcul est affiché à l'aide de 4 bits (R4-R3-R2-R1). 
 Enfin, 3 afficheurs ont été ajoutés sur la droite du schéma dans le but de facilité l'interprêtation des entrées et du résultat, en affichant les nombres en base 10.
+
+Un additionneur à 4 bits peut additionner des nombres dont le résultat ne dépasse pas 1111 en binaire, ce qui correspond à 15 en base 10.
+Dans notre cas, il s'agit d'additionner les nombres 3 et 7, soit 0011 et 0111 en binaire.
+
+Premièrement, A1 et A2 sont additionnés par XOR 7, ce qui donne 0.
+Par conséquent, il faut garder la retenue de l'opération à l'aide de AND 5. 
+Ainsi, R1 vaut 0.
+
+Deuxièmement, A2 et B2 sont additionnés par XOR 3, ce qui donne à nouveau 0.
+Il faut donc garder la retenue de l'opération à l'aide de AND 2.
+Le résultat de XOR 3 et la retenue de AND 5 sont additionnés par XOR 6, ce qui donne 1.
+par conséquent, il n'y a pas de retenue à garder dans AND 4.
+Ainsi, R2 vaut 1.
+
+Troisièmement, A3 et B3 sont additionnés par XOR 2, ce qui donne 1. 
+Il n'y a donc pas de retenue à garder dans AND 1.
+Le résultat de XOR 2 et la retenue de AND 2, qui transite par OR 2, sont additionnés par XOR 5, ce qui donne 0.
+Par conséquent, il est nécessaire de garder la retenue de l'opération à l'aide de AND 3.
+Ainsi, R3 vaut 0.
+
+Quatrièmement, A4 et B4 sont additionnés par XOR 1, ce qui donne 0.
+Le résultat de XOR 1 et la retenue de AND 3, qui transite par OR 1, sont additionnés par XOR 4, ce qui donne 1.
+Ainsi, R4 vaut 1.
+
+Enfin, en convertissant le nombre binaire 1010 en base 10, nous obtenons 10, ce qui est bien le résultat de l'addition de 3 et 7.
+
+Afin de mieux comprendre comment fonctionne l'additionneur, il est possible de modifier la valeur des deux entrées, en changant la valeur de leurs bits (cliquer sur les bits pour changer la valeur).
