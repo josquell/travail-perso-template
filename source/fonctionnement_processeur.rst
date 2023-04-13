@@ -7,7 +7,7 @@ Les transistors
 Définition d'un transistor
 __________________________
 
-Un transistor est un composant électronique constitué de matériaux semi-conducteurs utilisé pour redresser, amplifier ou interrompre des oscillations électriques en fonction de la tension qui lui est envoyé. 
+D'après :cite:p:`Definition:test-instances`,un transistor est un composant électronique constitué de matériaux semi-conducteurs utilisé pour redresser, amplifier ou interrompre des oscillations électriques en fonction de la tension qui lui est envoyé. 
 Un transistor laisse passer le courant électrique dans un sens, mais pas dans l’autre.
 
 Fonctionnement d'un transistor
@@ -44,7 +44,7 @@ Dans le cas du transistor NPN, si la grille envoie une tension négative, soit l
 Le courant peut donc circuler dans un sens, mais pas dans l’autre. C’est ainsi que fonctionne le transistor NPN.
 
 En ce qui concerne le transistor PNP, le substrat de silicium est cette fois-ci dopé négativement alors que la source et le drain sont dopés positivement. 
-Cela a pour seule conséquence que lorsque la grille envoie une tension négative (signal 0), le courant électrique peut circuler de la source au drain, alors que si la grille envoie une tension positive (signal 1), le courant électrique ne peut pas circuler de la source au drain.
+Cela a pour seule conséquence que lorsque la grille envoie une tension négative (signal 0), le courant électrique peut circuler de la source au drain, alors que si la grille envoie une tension positive (signal 1), le courant électrique ne peut pas circuler de la source au drain, d'après :cite:p:`transistors:test-instances`.
 
 Les portes logiques
 ===================
@@ -52,7 +52,7 @@ Les portes logiques
 Définition d'une porte logique
 ______________________________
 
-Une porte logique est un composant élémentaire d’un circuit numérique. 
+Selon :cite:p:`Porte:test-instances`, une porte logique est un composant élémentaire d’un circuit numérique. 
 Il existe sept portes logiques de base : AND, OR, XOR, NOT, NAND, NOR et XNOR. 
 La majorité des portes logiques disposent de deux entrées et d’une sortie. 
 L’objectif d’une porte logique est de renvoyer un signal positif (1) ou négatif (0) à la sortie en fonction des deux valeurs d’entrée.
@@ -71,14 +71,14 @@ Les deux tiges noires juxtaposées d’un point blanc symbolisent un transistor 
 Lorsque la valeur d’entrée est 1, le transistor PNP ne laisse pas passer le courant de l’alimentation à la sortie, alors que le transistor NPN laisse passer le signal issu de la masse qui est nul. 
 C’est donc la valeur 0 qui sortira de la porte logique. 
 À l’inverse, lorsque le signal d’entrée est 0, le transistor PNP laisse passer le courant de l’alimentation à la sortie, tandis que le transistor NPN ne laisse pas passer le signal nul issu de la masse. 
-C’est donc cette fois-ci la valeur 1 qui sortira de la porte logique.
+C’est donc cette fois-ci la valeur 1 qui sortira de la porte logique, d'après :cite:p:`transistors:test-instances-2`.
 
 Il est dès lors possible de dresser un tableau récapitulatif qui présente les valeurs de sortie en fonction des valeurs d’entrée d’une porte logique NOT :
 
 .. image:: images/tableau_NOT.png
 
 Ensuite, la porte logique AND a pour mission de retourner la valeur 1 uniquement lorsque les deux valeurs d’entrée valent 1. 
-Voici un schéma simplifié de la porte logique AND.
+Voici une analogie qui utilise des systèmes hydraulique pour illustré le fonctionnement de la porte logique AND.
 
 .. image:: images/schema_AND.png
 
@@ -91,7 +91,7 @@ La valeur de sortie est donc 0.
 Lorsque la valeur de l’entrée A est 0 et la valeur de l’entrée B est 1, T1 laisse passer le courant, T3 est donc à nouveau fermé, ce qui empêche le courant de circuler de l’alimentation à la sortie. 
 La valeur de sortie est donc 0. 
 Enfin, dans le cas où la valeur de l’entrée A et B est 0, T1 et T2 sont ouverts, ce qui a pour conséquence de fermer T3, et d’empêcher le courant de circuler de l’alimentation à la sortie. 
-La valeur de sortie est donc 0. Dans les trois derniers cas, T6 laissent passer le signal qui est nul.
+La valeur de sortie est donc 0. Dans les trois derniers cas, T6 laissent passer le signal qui est nul, selon :cite:p:`transistors:test-instances-2`.
 Il est dès lors possible de dresser un tableau récapitulatif d’une porte logique AND qui présente les valeurs de sortie en fonction des deux valeurs d’entrée :
 
 .. image:: images/tableau_AND.png
@@ -101,7 +101,7 @@ Concernant la porte logique OR, la valeur de sorti doit être 0 uniquement lorsq
 Dans les trois autres cas, la valeur de sortie doit être 1.
 Dans le cas de la porte logique NOR, les valeurs de sortie sont simplement l’inverse des valeurs de sortie de la porte logique OR.
 Ensuite la porte XOR retourne 0 si la valeur d’entrée A et la valeur d’entrée B sont identiques et 1 dans les deux autres cas.
-À nouveau, pour la porte logique XNOR, les valeurs de sortie sont l’inverse des valeurs de sortie de la porte logique XOR.
+À nouveau, pour la porte logique XNOR, les valeurs de sortie sont l’inverse des valeurs de sortie de la porte logique XOR, d'après :cite:p:`transistors:test-instances-2`.
 Les différentes portes logiques ont dès lors été parcourues. 
 Les portes logiques permettent de construire des circuits logiques plus ou moins complexes.
 

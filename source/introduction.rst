@@ -3,16 +3,9 @@
 Introduction
 ############
 
-..
-    Ceci est un commentaire
+Dans ce travail, nous allons nous intéresser au processeur et à son fonctionnement. 
+Cette thématique m’intéresse particulièrement car il s’agit d’un objet concret, essentiel au fonctionnement des ordinateurs qui font désormais partie de notre quotidien. 
+Comme je possède actuellement peu de connaissance à ce sujet, bien que je sois conscient qu’il s’agit d’un domaine très complexe, je trouve pertinent de l’explorer, dans le but d’acquérir de nouvelles connaissances.  
 
-Écrivez votre introduction. L'introduction doit contenir les éléments suivants
-
-- évoquer le but du projet (motivation personnelle)
-- évoquer les notions scientifiques / techiques utilisées dans le projet
-- Motivation
-
-  - S'il s'agit d'un sujet théorique, évoquer l'intérêt / l'importance du sujet
-  - S'il s'agit d'un projet pratique (programmation / etc ...), indiquer ce que
-    votre projet apporte, ce qu'il permet de faire.
-
+Les sources utilisées pour la rédaction de ce projet proviendront essentiellement d’articles internet ou de vidéos YouTube. 
+Pour illustrer les explications, différents schémas sélectionnés sur internet ou directement créés sur un logiciel seront intégrés dans le travail.  
