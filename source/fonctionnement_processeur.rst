@@ -18,7 +18,7 @@ Ainsi, une forte tension électrique est assimilée à la valeur 1, alors qu’u
 
 .. figure:: images/transistor.png
     :align: center
-    :width: 100%
+    :width: 80%
 
     Schéma de deux transistors, téléchargé depuis :cite:p:`Schéma_de_deux_transistors`
 
@@ -66,7 +66,7 @@ __________________________________
 
 .. figure:: images/schema_NOT.jpg
     :align: center
-    :width: 40%
+    :width: 35%
 
     Schéma de la porte logique NOT, téléchargé depuis :cite:p:`Schéma_de_la_porte_logique_NOT`
 
@@ -85,7 +85,7 @@ Il est dès lors possible de dresser un tableau récapitulatif qui présente les
 
 .. figure:: images/tableau_NOT.png
     :align: center
-    :width: 50%
+    :width: 40%
 
     Tableau récapitulatif de la porte logique NOT, prise depuis :cite:p:`Tableau_recapitulatif_porte_NOT`
 
@@ -94,7 +94,7 @@ Voici une analogie qui utilise des systèmes hydrauliques pour illustré le fonc
 
 .. figure:: images/schema_AND.png
     :align: center
-    :width: 80%
+    :width: 70%
 
     Analogie de la porte logique AND utilisant des systèmes hydrauliques, prise depuis la vidéo :cite:p:`Analogie_porte_logique_AND`, à 3:24
 
@@ -112,7 +112,7 @@ Il est dès lors possible de dresser un tableau récapitulatif d’une porte log
 
 .. figure:: images/tableau_AND.png
     :align: center
-    :width: 50%
+    :width: 45%
 
     Tableau récapitulatif de la porte logique AND, prise depuis :cite:p:`Tableau_recapitulatif_porte_AND`
 
@@ -134,7 +134,6 @@ _________________
 ..  raw:: html
 
     <iframe style="width: 200%; height: 795px; border: 0" src="https://logic.modulo-info.ch/?mode=design&data=N4IgbiBcCsA0IEsB2UDaoAOB7AzmgnAAyGwBMhAuvFgE4ICmSALlCHvAgCZQngCGAGygBGAL6xMuNAA5oJAGzQqibpGHwwgkeMl5IqeQGYS5ZbQbNW7FVFKGNWtTpDY9qaNJIB2Sh1WkAFgchJwkXKX1DTzJfEHNGFkg2ED8oQy9nVzRDY1gfZS406WDtMKz9YVzTajoEqxSbSEVMiNRo-NSm+VEzAFdE9HC3I28vJRqLROTO4W6y1qjR8bjayyTrQshjFrdKpbNVqY3VeUJnJgBPDHpWTgQcDAE+C4by1GE92E8C1RAvaQAtNJhCBzlcbkk7g8ni94G8PrlhN9On9CACvIZQWFLtdbvdHs9Xq0ESZkY0QNJ5ED8FjdDIiHkxgdJvVOtAevAAOZ8Jj0NygHEQkAADQA8gAlIluaQMxTLeJraaIFD6UiwQx9RIBMG4pIAQQAcgARKVoLwBOABU7MurrBrINAfWDCUiakSGHVCsWSuGtEawOU2xUbFXvLzO6RutT4T2sb2m-TycjqgKxBVHe2h5OkYRR0ikWP640J1ABfCW60TW1Kh36YrCAJR4Ts7Hg1gSksBWSwaCVlYsu0cLPh0iR6j9Wwx1u6kUd31uRYB6Dyw6s5XZdSGV3jxI5Quzn1DbI+FNp1eD9eRIKGeUTrZzAVtosm+doAIWshk9Nr2uoQz4WBUyjAIxGnIVDRfI9VWIT8zwHGtQytQCvGA6R9znKDUDsOBezg6sQzfAC5CjaBQMfGcIJLQIKzw4NMzQZce3kEiMjAuMMPhXJAyrOihwYoIPBIqdyK9DjiWTQwgJ4jM+MTcN5DHOI73kGNlBhLA70GQVWAwPgcGsN5pGif9aJky95B3KBWJEnS9IM1oiBIEDTJ-FUAKUxJhDONikl0-SSyTEgTKDMza1IOAPNsB8QG03y7ICryYhXeCCMgAI1UitKPR8lx4tfRMqmMELXKgd9LLSlsbLi-z8r-E9gukkqYAyjTEmgbKqtymrMMXOwXIvWt5HUTKk33Pz7IXU4kuKgaVSMcr5G1HLxpLIySAbfqEKsoJMrGMa8swob1uIxrZqsizdusmKny6ibsim2ZNtS6QWrvaQOuumcVtqj51o6ft8PoyBpB21qoFkDkQCeAAjegBH5TCSWdIr4F5AAPKYAGpaURz4+uUdGpgAXhx+EpsMRQCfoDH2PFAACEEdjfRKKeWQnabp0hSb9cnKdR6mpm9OnMSZipu0UWJ2aSIWAm5twAhvJdJYFjnoDltAFLgCWqZp6WJTp+R1f0fAP21-ndYPOmvCNrDu1wnWpn1xn5jcdqcL7KWQH1rnRawxjR2Vi2IIZm25FJQOpmDn2XeyGCrQj1hg5FmP9GXJyPZVpI6eD2Xfc8dOE+fOm1d9l0YLJT2DSwABbaGaHobObbL9aK8zkAq9r+u6YAISb4Ry1gh3WHFABLnBegEJgeRt2Q4GqGK271Z26VT7t589vVo5Xv9FfXxfk+3hk96D3OU7aRK+YXi3u+XzDoFTPJC5Abut8w0c4H+z3u4PzCH8-tvu6n0PuFRkbM27ilvm8eQihQFDySOKV+bwQIfyZObKY4of5kxQWAi24pc7KAAO4IHrm4d4eRGywFQCQfAVBUDhg1JQxK253jrXUKAMACA+BoDoYxdKvACEgAoBQDkdDnRqnYZw7hGJLQwRAAIoRIj+7OmYow+wwhwwSK4foOhptmzwDwLQxaCg9FyMEcI2h+YyDjCwkELwKisL2HfLQyoXwwgcK0agAwD8w7wHkZQoxgFkymIURYiySJQnOiCJo7hXYZH8LMYoueKFKGkAAoYNh4BJHaNiQGExfi-yyjyQk2hFMezMKiF8cp8lcyUJyOqXwpZ7A5loR+aojTAIkGidk3eRSQmUI-P+Fp6hRxuKyZ498OEgkGPMZQ6A4YywWKInALpniTIBlkfktZfDfHFNmfYLctD2pMVGR4hxcSdl9PcABSs7h1D3xOdw7CuSIr5I2s8i5MzSzFDkA87R5ASDQCmbsgwapJKGOvNYxayFfmeP7iYXpnykyAXsdAr4FCDBa2SQYIiY4qF5FxXYPIAEVkGBPCdUl61iC0PLHALyDSaWP0uekL4nTMmnPSjhBpHLnReWpWMHl9L+VEEuTA4EMKwycucfysuzjiDrTaXS1hlBPn8vsfyjodD5nMK8OGLwGT3HcMVcohpRr1HKpEe9AMDC2j2C8OItl3D8DSo1U62lwrPni1xd2DE4qGVInpf7XlnygiUnFXSrWA8QAoFlYQOePyo3AqUdIDRDrtHAgUJG6NlD02PwilmlhyYfB5sEYwwg2YTwJqZfYIy4r74RusXWvIzZZWKz1dYryu8GSVs+dAACMpxWpPrYsj+4VZU-Lte22NQVErdpEQJBRQA"></iframe>
-
 Schéma interactif d'un additionneur à 4 bits, créé sur :cite:p:`logic.modulo-info.ch` à l'aide d'un schéma présent dans la vidéo :cite:p:`transistors:test-instances-2`, à 7:09.
 
 ..  only:: latex
