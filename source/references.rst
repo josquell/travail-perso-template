@@ -33,4 +33,10 @@
 ..  bibliography:: videos.bib
     :all:
 
+..  only:: html
     
+    ..  rubric:: Illustrations
+
+..  bibliography:: illustrations.bib
+    :all:
+

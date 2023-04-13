@@ -16,7 +16,11 @@ ______________________________
 Un transistor fonctionne avec le binaire. 
 Ainsi, une forte tension électrique est assimilée à la valeur 1, alors qu’une faible tension électrique à la valeur 0.
 
-.. image:: images/transistor.png
+.. figure:: images/transistor.png
+    :align: center
+    :width: 100%
+
+    Schéma de deux transistors, téléchargé depuis :cite:p:`Schéma_de_deux_transistors`
 
 Voici un schéma qui présente les deux types de transistors qu’il est possible de construire. 
 Le premier transistor est un transistor NPN.
@@ -60,7 +64,11 @@ L’objectif d’une porte logique est de renvoyer un signal positif (1) ou nég
 Fonctionnement des portes logiques
 __________________________________
 
-.. image:: images/schema_NOT.jpg
+.. figure:: images/schema_NOT.jpg
+    :align: center
+    :width: 40%
+
+    Schéma de la porte logique NOT, téléchargé depuis :cite:p:`Schéma_de_la_porte_logique_NOT`
 
 La porte logique la plus simple est certainement la porte NOT, aussi appelé NON.
 La figure 2 Schématise une porte logique NOT. 
@@ -75,12 +83,20 @@ C’est donc cette fois-ci la valeur 1 qui sortira de la porte logique, d'après
 
 Il est dès lors possible de dresser un tableau récapitulatif qui présente les valeurs de sortie en fonction des valeurs d’entrée d’une porte logique NOT :
 
-.. image:: images/tableau_NOT.png
+.. figure:: images/tableau_NOT.png
+    :align: center
+    :width: 50%
+
+    Tableau récapitulatif de la porte logique NOT, prise depuis :cite:p:`Tableau_recapitulatif_porte_NOT`
 
 Ensuite, la porte logique AND a pour mission de retourner la valeur 1 uniquement lorsque les deux valeurs d’entrée valent 1. 
-Voici une analogie qui utilise des systèmes hydraulique pour illustré le fonctionnement de la porte logique AND.
+Voici une analogie qui utilise des systèmes hydrauliques pour illustré le fonctionnement de la porte logique AND.
 
-.. image:: images/schema_AND.png
+.. figure:: images/schema_AND.png
+    :align: center
+    :width: 80%
+
+    Analogie de la porte logique AND utilisant des systèmes hydrauliques, prise depuis la vidéo :cite:p:`Analogie_porte_logique_AND`, à 3:24
 
 Sur la figure 3, T1, T2 et T3 représentent des transistors PNP alors que T4, T5 et T6 représentent des transistors NPN. 
 Le chiffre 1 présent tout en haut à droite symbolise l’arrivé du courant issu de l’alimentation. 
@@ -94,7 +110,11 @@ Enfin, dans le cas où la valeur de l’entrée A et B est 0, T1 et T2 sont ouve
 La valeur de sortie est donc 0. Dans les trois derniers cas, T6 laissent passer le signal qui est nul, selon :cite:p:`transistors:test-instances-2`.
 Il est dès lors possible de dresser un tableau récapitulatif d’une porte logique AND qui présente les valeurs de sortie en fonction des deux valeurs d’entrée :
 
-.. image:: images/tableau_AND.png
+.. figure:: images/tableau_AND.png
+    :align: center
+    :width: 50%
+
+    Tableau récapitulatif de la porte logique AND, prise depuis :cite:p:`Tableau_recapitulatif_porte_AND`
 
 Pour la porte logique NAND, les valeurs de sortie sont simplement l’inverse des valeurs de sortie de la porte logique AND.
 Concernant la porte logique OR, la valeur de sorti doit être 0 uniquement lorsque les deux valeurs d’entrée valent 0. 
