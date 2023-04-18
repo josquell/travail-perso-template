@@ -4,7 +4,7 @@ Conclusion
 ##########
 
 Dans le présent travail, nous nous sommes tout d’abord intéressés au processeur de manière générale. 
-Nous l’avons définie comme le cerveau de l’ordinateur qui interprète et exécute les instructions qu’il reçoit, et qui est composé de trois parties distinctes, l’unité de contrôle, les registres et l’horloge. 
+Nous l’avons défini comme le cerveau de l’ordinateur qui interprète et exécute les instructions qu’il reçoit, et qui est composé de trois parties distinctes, l’unité de contrôle, les registres et l’horloge. 
 Afin de bien comprendre le fonctionnement d’un processeur, nous avons défini et expliqué le mécanisme des transistors NPN et PNP, puis celui des portes logiques, en présentant en détail les portes logiques NOT et AND. 
 Enfin, ces notions théoriques nous ont permis de présenter le fonctionnement de l’additionneur à 4 bits, qui peut être considéré comme un processeur élémentaire, à l’aide d’un schéma interactif. 
 
