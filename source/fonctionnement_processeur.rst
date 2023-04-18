@@ -147,7 +147,9 @@ Schéma interactif d'un additionneur à 4 bits, créé sur :cite:p:`logic.modulo
 Explications du schéma
 ______________________
 
-Afin d'être en mesure de voir en même temps le schéma et les explications, il est conseillé d'afficher ces derniers dans deux fenêtres différentes, l'une à côté de l'autre.
+.. only:: html
+
+    Afin d'être en mesure de voir en même temps le schéma et les explications, il est conseillé d'afficher ces derniers dans deux fenêtres différentes, l'une à côté de l'autre.
 
 Le schéma présente le fonctionnement d'un additionneur à 4 bits.
 Ce dernier est constitué d'une première entré A à 4 bits (A4-A3-A2-A1) et d'une deuxième entrée B à 4 bits (B4-B3-B2-B1) qui représentent le nombre A, respectivement le nombre B, que nous souhaitons additionner. 
@@ -180,5 +182,7 @@ Ainsi, R4 vaut 1.
 
 Enfin, en convertissant le nombre binaire 1010 en base 10, nous obtenons 10, ce qui est bien le résultat de l'addition de 3 et 7.
 
-Afin de mieux comprendre comment fonctionne l'additionneur, il est possible de modifier la valeur des deux entrées, en changant la valeur de leurs bits (cliquer sur les bits pour changer la valeur).
+.. only:: html
+
+    Afin de mieux comprendre comment fonctionne l'additionneur, il est possible de modifier la valeur des deux entrées, en changant la valeur de leurs bits (cliquer sur les bits pour changer la valeur).
 
