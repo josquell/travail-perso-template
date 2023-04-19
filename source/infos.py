@@ -5,7 +5,7 @@ class DocumentInfos:
     last_name = 'Truttmann'
     author = f'{first_name} {last_name}'
     year = u'2023'
-    month = u'Mai'
+    month = u'Avril'
     seminary_title = u'Travail personnel OCI'
     tutor = u"Cédric Donner"
     release = "Version finale"

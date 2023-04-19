@@ -145,7 +145,7 @@ Schéma interactif d'un additionneur à 4 bits, pris depuis :cite:p:`Schema_addi
         Schéma d'un additionneur à 4 bits, pris depuis :cite:p:`Schema_additionneur_4bits` et créé sur :cite:p:`logic.modulo-info.ch` à l'aide d'un schéma présent dans la vidéo :cite:p:`transistors:test-instances-2`, à 7:09
 
 Explication du schéma
-______________________
+_____________________
 
 ..  only:: html
 
