@@ -1,1 +1,1 @@
-A été ajouté dans la partie "fonctionnement_processeur.rst"
+A été ajouté dans la partie "fonctionnement_processeur.rst".
